@@ -9,6 +9,9 @@ We are going to use TensorFlow's Keras API to create a convolutional neural netw
 ## Output
 
 ### Predicted objects after classification & localization
-![Predicted object after classification & localization](https://github.com/MonishaBasak/Object-Localization-with-TensorFlow/blob/main/Outputs/Object%20localization%201.PNG)
 
 ![](https://github.com/MonishaBasak/Object-Localization-with-TensorFlow/blob/main/Outputs/object%20local2.PNG)
+
+![Predicted object after classification & localization](https://github.com/MonishaBasak/Object-Localization-with-TensorFlow/blob/main/Outputs/Object%20localization%201.PNG)
+
+
